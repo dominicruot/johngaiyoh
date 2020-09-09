@@ -1,0 +1,76 @@
+
+.flex-container{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/139/911/non_2x/vector-grey-gradient-abstract-background.jpg');
+    background-size: cover;
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+    padding: 150px;
+    padding-bottom: 200px;
+}
+.flex-about{
+    display: flex;
+    padding: 150px;
+    padding-bottom: 280px;
+}
+img{
+    margin-top: 200px;
+    margin: 20px;
+  width: 300px;
+    padding: 5px;
+}
+h2{
+    text-align-last: center
+}
+#img{
+    height: 200px;
+    width: 100%;
+}
+p{
+    padding: 20px;
+}
+.flex-social{
+     background-image: url('https://static.vecteezy.com/system/resources/previews/000/139/911/non_2x/vector-grey-gradient-abstract-background.jpg');
+    background-size: cover;
+     
+    display: flex;
+}
+a{
+    text-align-last: center
+}
+.flex-box{
+     background-image: url('https://static.vecteezy.com/system/resources/previews/000/139/911/non_2x/vector-grey-gradient-abstract-background.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction:row-reverse;
+          flex-wrap: wrap;
+    background-repeat: no-repeat;
+    justify-content: center;
+    padding: 150px;
+    padding-bottom: 280px;
+
+}
+.book1,.book2,.book3,.book4,.book5,.book6{
+}
+.video{
+     display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+    padding: 150px;
+    padding-bottom: 280px;
+    padding-bottom: 280px;
+    flex-wrap: wrap;
+    position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.f{
+     background-image: url('https://static.vecteezy.com/system/resources/previews/000/139/911/non_2x/vector-grey-gradient-abstract-background.jpg');
+    background-size: cover;
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+    flex-wrap: wrap
+    
+}
